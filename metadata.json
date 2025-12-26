@@ -1,0 +1,5 @@
+{
+  "name": "Admin App",
+  "description": "A mobile-first management dashboard for social media administrators featuring shift tracking, daily reporting, community chat, and gamified ranking systems.",
+  "requestFramePermissions": []
+}

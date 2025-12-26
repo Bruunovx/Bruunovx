@@ -1,0 +1,20 @@
+{
+  "short_name": "AdminApp",
+  "name": "Admin Social Manager",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4799/4799167.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4799/4799167.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#F8F9FA"
+}
